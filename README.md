@@ -139,5 +139,4 @@ Indus University
 VOIS AICTE Internship — Batch 2026–2027
 
 ## Note
-This project was developed as part of the VOIS AICTE Major Project and focuses on data analytics using Python.
 This project was developed as part of the **VOIS AICTE Major Project** and focuses on data analytics using Python.
